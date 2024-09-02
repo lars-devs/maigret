@@ -7644,6 +7644,16 @@
             "usernameClaimed": "red",
             "usernameUnclaimed": "noonewouldeverusethis7"
         },
+        "HotUK": {
+            "tags": [
+                "forum"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://hotukdeals.com/",
+            "url": "https://hotukdeals.com/profile/{username}",
+            "usernameClaimed": "Chanchi32",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
         "House-Mixes.com": {
             "tags": [
                 "ir"
@@ -10814,6 +10824,18 @@
             "usernameUnclaimed": "noonewouldeverusethis7",
             "alexaRank": 10282751
         },
+        "MyDealz": {
+            "tags": [
+                "forum",
+                "de"
+            ],
+            "checkType": "status_code",
+            "urlMain": "https://www.mydealz.de/",
+            "url": "https://www.mydealz.de/profile/{username}",
+            "usernameClaimed": "Barney",
+            "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+
         "Myjane": {
             "tags": [
                 "bg",
